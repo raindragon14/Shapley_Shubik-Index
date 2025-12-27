@@ -87,7 +87,7 @@ Untuk mereplikasi hasil penelitian ini pada lingkungan lokal Anda:
 ## 👤 Informasi Penulis
 
 **Proyek Akhir Mata Kuliah Riset Operasi**
-*Program Studi Teknik Informatika / Ilmu Komputer*
+*Program Studi Matematika Murni*
 
 Studi ini didedikasikan untuk memberikan wawasan objektif berbasis data mengenai dinamika politik parlemen di Indonesia.
 
